@@ -2,7 +2,8 @@
 
 Facial beauty prediction using CNN. (Beauty score's range 1-5)
 
-[![result.png](https://github.com/kairess/beauty_score/raw/master/result/01.png)]()  
+Click to see [video](https://youtu.be/vMo_W8VxvxE)!  
+[![result.png](https://github.com/kairess/beauty_score/raw/master/result/01.png)](https://youtu.be/vMo_W8VxvxE)  
   
 ![result.png](https://github.com/kairess/beauty_score/raw/master/result/02.png)  
 
